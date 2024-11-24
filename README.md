@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhinesh
-- 👀 I’m interested in VLSI design
+- 👀 I’m interested in Embedded Systems & VLSI
 - 🌱 I’m currently learning backend from RTL to GDS 
 - 💞️ I’m looking to collaborate on innovative projects related to FPGA, ASIC
 - 📫 Reach me at dhineshkumarg14@gmail.com
